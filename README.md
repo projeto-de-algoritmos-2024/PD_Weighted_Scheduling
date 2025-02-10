@@ -58,7 +58,9 @@ A tecla 'esc" fecha o programa.
 
 **Link do vídeo**
 
-[![Assista ao vídeo]()]()
+[![Assista ao vídeo](https://img.youtube.com/vi/FmXlUrdL_RU/0.jpg)](https://www.youtube.com/watch?v=FmXlUrdL_RU)
+
+https://www.youtube.com/watch?v=FmXlUrdL_RU
 
 
 
